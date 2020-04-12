@@ -17,7 +17,6 @@
         <fileset dir="lib" includes="*.jar"/>
       </classpath>
     </javac>
-
     <mkdir dir="build/test-reports"/>
     <junit printsummary="true">
       <classpath>
